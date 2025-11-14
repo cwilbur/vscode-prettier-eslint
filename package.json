@@ -51,7 +51,7 @@
   "dependencies": {
     "find-up": "7.0.0",
     "i": "^0.3.7",
-    "ignore": "5.3.0",
+    "ignore": "5.3.2",
     "npm": "^10.2.4",
     "require-relative": "^0.8.7"
   }
